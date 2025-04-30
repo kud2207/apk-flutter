@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661796283248",
+    "project_id": "cv-express-e728c",
+    "storage_bucket": "cv-express-e728c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661796283248:android:6ddd287330da3471d465b5",
+        "android_client_info": {
+          "package_name": "com.example.cv_express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpQwPJ4lvbbXoWAjHs9ffwH1TIj67vWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
